@@ -7,4 +7,4 @@ library(rstudioapi)
 
 addTheme("/url-to-the-rstheme/", apply = TRUE)
 
-Full tutorial here: tutorial here: https://r-coder.com/rstudio-themes/
+Full tutorial here: https://r-coder.com/rstudio-themes/
